@@ -34,8 +34,8 @@ Note that this component is protected by the `<Auth />` system, so make sure tha
 
 ### Stretch Goals:å
 
-[] Style it!
+[ ] Style it!
 
 ## Approach and drawing
 
-![UML](./lab3uml.jpg)
+![UML](./lab38uml.jpg)
